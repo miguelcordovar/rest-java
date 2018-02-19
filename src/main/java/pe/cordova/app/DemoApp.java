@@ -6,6 +6,9 @@ public class DemoApp {
 
         System.out.println("Hola Mundo!!");
         System.out.println("Hola Mundo esto es nuevo!!");
+        System.out.println("Hola Mundo, saludos miguel!!");
+        System.out.println("Hola Mundo, saludos gianella!!");
+
 
     }
 
